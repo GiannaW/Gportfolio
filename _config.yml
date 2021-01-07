@@ -26,7 +26,7 @@ plainwhite:
   name: Gianna Williams
   navigation:
     - title: Welcome
-      url: "https://giannaw.github.io/index"
+      url: "/index.md"
     - title: Projects
       url: "https://giannaw.github.io/projects"
     - title: Papers
