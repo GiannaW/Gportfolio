@@ -28,11 +28,11 @@ plainwhite:
     - title: Welcome
       url: "/Gportfolio/"
     - title: Projects
-      url: "https://giannaw.github.io/projects"
+      url: "/Gportfolio/projects"
     - title: Papers
-      url: "https://giannaw.github.io/Papers"
+      url: "/Gportfolio/Papers"
     - title: Videos
-      url: "https://giannaw.github.io/Videos"
+      url: "/Gportfolio/Videos"
     - title: Resume
       url: "https://docs.google.com/document/d/1701go5Wc3yrc0287YaWTAucm1YFrmLVuFogxa-XyuDk/edit?usp=sharing"
     
