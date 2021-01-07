@@ -26,13 +26,13 @@ plainwhite:
   name: Gianna Williams
   navigation:
     - title: Welcome
-      url: "/index"
+      url: "https://giannaw.github.io/index"
     - title: Projects
-      url: "/projects"
+      url: "https://giannaw.github.io/projects"
     - title: Papers
-      url: "/Papers"
+      url: "https://giannaw.github.io/Papers"
     - title: Videos
-      url: "/Videos"
+      url: "https://giannaw.github.io/Videos"
     - title: Resume
       url: "https://docs.google.com/document/d/1701go5Wc3yrc0287YaWTAucm1YFrmLVuFogxa-XyuDk/edit?usp=sharing"
     
