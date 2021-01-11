@@ -4,6 +4,29 @@ layout: post
 
 ---
 
-Welcome to Portfolio. Here you can find projects, papers, and videos of my current work. 
+<html>
+<head>
+    
 
-Gianna Williams is a third- year undergrad student in Computer Science at the American University. Where my interest align with are AI and ethics, computational social science, computational sustainability, human-centered computing, user experience of marginalized groups. She is a [Frederick Douglass Distinguished Scholars](https://www.american.edu/learning-communities/douglassscholars/current-students.cfm)  at American University where I leverage the knowledge, experience, and network of influential alumni, faculty, and staff to foster a collaborative community in which they prepare for graduate/professional school, nurture their originality, and develop the specialized skills necessary for socially responsible leadership.
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+</head>
+
+ <p>Welcome to my Portfolio.
+Here you can find projects, papers, and videos of my current work.
+</p> 
+<p>Gianna Williams is a current a third year student studying Computer Science with a minors in Sociology and Entrepreneurship at American University in Washington, D.C. Where my interests include ethical AI, computational social science, computational sustainability, human-centered computing, and a better accessible user experience of marginalized groups. 
+I am as well a Frederick Douglass Distinguished Scholars  at American University where I leverage the knowledge, experience, and network of influential alumni, faculty, and staff to foster a collaborative community in which  I am preparing for graduate/professional school, nurturing originality, and developing the specialized skills necessary for socially responsible leadership.
+</p>
+
+    
+    
+    
+    
+    
+</html>
+
