@@ -8,7 +8,7 @@ layout: post
 --------
 Here you can find a paper where I documented a Library database. From this you will see my introduction to MySQL.
 
-Markup : * MySQL
+* MySQL
 
 
 
