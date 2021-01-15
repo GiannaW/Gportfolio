@@ -7,7 +7,7 @@ layout: post
 [Digital Colonialism ](https://www.youtube.com/watch?v=cTdgmZDESCw&feature=youtu.be)
 --------
 
-This is one of my most loved projects. Here you will a see video where I discuss the concept of Digital Colonialism. In this video,  I have documented the negative effects of silicon valley'S participation  in the Global South. 
+This is one of my most loved projects. Here you will a see video where I discuss the concept of Digital Colonialism. In this video,  I have documented the negative effects of silicon valley's participation  in the Global South. 
 
 
 
