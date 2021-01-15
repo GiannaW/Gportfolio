@@ -22,7 +22,7 @@ Here is my Web App I developed using HTML, CSS and Rest APIs to help D.C. reside
 --------
 
 
-Here is a digital library I developed for better accessibility to critical race theory. It also a reseach for grassroot organizations located in my community.
+Here is a digital library I developed for better accessibility to critical race theory. It also a research tool for grassroot organizations located in my community.
 
 
 ### Skills Used
@@ -34,7 +34,7 @@ Here is a digital library I developed for better accessibility to critical race 
 --------
 
 
-Here is a a web app I developed that combines historical photos of Southwest D.C, with contemporary photos. The web exhibit superimposes a story about the effects of gentrification within the South West D.C area and the need for cultural and historical preservation.
+Here is a a web app I developed that combines historical photos of Southwest D.C, with contemporary photos. The web exhibit superimposes a story about the effects of gentrification within the Southwest D.C. area and the need for cultural and historical preservation.
 
 
 ### Skills Used
