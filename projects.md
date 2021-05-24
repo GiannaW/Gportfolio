@@ -43,3 +43,18 @@ Here is a a web app I developed that combines historical photos of Southwest D.C
 * Jekyll Themes
 * ArcGIS
 
+
+[URBAN DESSERT MAPS](https://au-cs-infovis-spring21.github.io/term-project-desserts/)
+--------
+
+
+Here is a a web app I developed with a team of three which documents the harsh food, school, and hosptial  insecure areas within the D.C area. As you can see ward 7 and 8 are the most affected.  
+
+
+### Skills Used
+* HTML 
+* CSS
+* D3.js 
+* Javascript
+
+
