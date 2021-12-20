@@ -3,6 +3,11 @@ title:  Papers
 layout: post
 
 ---
+[The multifaceted experience of Latino’s within STEM](https://docs.google.com/document/d/1_Mi_AAbPzWo8ERiNkBJIl7CtBEzYwVGFsh0HtCqYs5g/edit?usp=sharing)
+--------
+
+
+
 
 [Library Database](https://docs.google.com/document/d/1Dnw-nfYS1lUYXCszpfcuI2lRqHgQTfdstrS7fUt268A/edit?usp=sharing)
 --------
